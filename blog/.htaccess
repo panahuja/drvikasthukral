@@ -1,0 +1,12 @@
+RewriteEngine on
+
+RewriteBase /blog/
+
+RewriteRule ^([^/\.]+)/?$ article.php?url=$1 [L]
+
+RewriteRule ^category/([^/\.]+)/?$ category.php?url=$1 [L]
+
+RewriteRule ^tag/([^/\.]+)/?$ tag.php?url=$1 [L]
+
+
+

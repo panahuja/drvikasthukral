@@ -1,0 +1,15 @@
+@font-face { font-family: 'OpenSansRegular'; src: url('fonts/OpenSans-Regular-webfont.eot'); src: url('fonts/OpenSans-Regular-webfont.eot?#iefix') format('embedded-opentype'), url('fonts/OpenSans-Regular-webfont.woff') format('woff'), url('fonts/OpenSans-Regular-webfont.ttf') format('truetype'), url('fonts/OpenSans-Regular-webfont.svg#OpenSansRegular') format('svg'); font-weight: normal; font-style: normal; }
+
+@font-face { font-family: 'OpenSansSemibold'; src: url('fonts/OpenSans-Semibold-webfont.eot'); src: url('fonts/OpenSans-Semibold-webfont.eot?#iefix') format('embedded-opentype'), url('fonts/OpenSans-Semibold-webfont.woff') format('woff'), url('fonts/OpenSans-Semibold-webfont.ttf') format('truetype'), url('fonts/OpenSans-Semibold-webfont.svg#OpenSansSemibold') format('svg'); font-weight: normal; font-style: normal; }
+
+@font-face { font-family: 'OpenSansBold'; src: url('fonts/OpenSans-Bold-webfont.eot'); src: url('fonts/OpenSans-Bold-webfont.eot?#iefix') format('embedded-opentype'), url('fonts/OpenSans-Bold-webfont.woff') format('woff'), url('fonts/OpenSans-Bold-webfont.ttf') format('truetype'), url('fonts/OpenSans-Bold-webfont.svg#OpenSansBold') format('svg'); font-weight: normal; font-style: normal; }
+
+@font-face { font-family: 'OpenSansExtrabold'; src: url('fonts/OpenSans-ExtraBold-webfont.eot'); src: url('fonts/OpenSans-ExtraBold-webfont.eot?#iefix') format('embedded-opentype'), url('fonts/OpenSans-ExtraBold-webfont.woff') format('woff'), url('fonts/OpenSans-ExtraBold-webfont.ttf') format('truetype'), url('fonts/OpenSans-ExtraBold-webfont.svg#OpenSansExtrabold') format('svg'); font-weight: normal; font-style: normal; }
+
+@font-face { font-family: 'open_sanslight'; src: url('fonts/opensans-light_0-webfont.eot'); src: url('fonts/opensans-light_0-webfont.eot?#iefix') format('embedded-opentype'), url('fonts/opensans-light_0-webfont.woff') format('woff'), url('fonts/opensans-light_0-webfont.ttf') format('truetype'), url('fonts/opensans-light_0-webfont.svg#open_sanslight') format('svg'); font-weight: normal; font-style: normal; }
+
+@font-face { font-family: 'roboto_condensedlight'; src: url('fonts/robotocondensed-light_0-webfont.eot'); src: url('fonts/robotocondensed-light_0-webfont.eot?#iefix') format('embedded-opentype'), url('fonts/robotocondensed-light_0-webfont.woff2') format('woff2'), url('fonts/robotocondensed-light_0-webfont.woff') format('woff'), url('fonts/robotocondensed-light_0-webfont.ttf') format('truetype'), url('fonts/robotocondensed-light_0-webfont.svg#roboto_condensedlight') format('svg'); font-weight: normal; font-style: normal; }
+
+@font-face { font-family: 'ScriptMTBold'; src: url('fonts/ScriptMTBold.eot?#iefix') format('fonts/embedded-opentype'), url('fonts/ScriptMTBold.woff') format('woff'), url('fonts/ScriptMTBold.ttf')  format('truetype'), url('fonts/ScriptMTBold.svg#ScriptMTBold') format('svg'); font-weight: normal; font-style: normal; }
+
+@font-face { font-family: 'roboto_condensedbold';   src: url('fonts/robotocondensed-bold_0-webfont.woff2') format('woff2'), url('fonts/robotocondensed-bold_0-webfont.woff') format('woff');  font-weight: normal;  font-style: normal;}

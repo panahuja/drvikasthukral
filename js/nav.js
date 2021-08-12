@@ -1,0 +1,104 @@
+
+$(document).ready(function(){
+  $("#menumob").click(function(){
+  $("#mobopen").slideToggle(300);
+  });
+  
+  $("#menumob2").click(function(){
+  $("#mobopen2").slideToggle(300);
+  });
+    $("#menumob3").click(function(){
+  $("#mobopen3").slideToggle(300);
+  });
+  
+
+$("#tablink1").click(function(){
+  $("#tablink1").addClass("acti");
+  $("#tablink2").removeClass("acti");
+  $("#tablink3").removeClass("acti");
+  $("#tablink4").removeClass("acti");
+  $("#tablink5").removeClass("acti");
+  $("#tablink6").removeClass("acti");
+  $("#tab1").show(500);
+  $("#tab2").hide(500);
+  $("#tab3").hide(500);
+  $("#tab4").hide(500);
+  $("#tab5").hide(500);
+  $("#tab6").hide(500);
+  });
+  
+  $("#tablink2").click(function(){
+  $("#tablink2").addClass("acti");
+  $("#tablink1").removeClass("acti");
+  $("#tablink3").removeClass("acti");
+  $("#tablink4").removeClass("acti");
+  $("#tablink5").removeClass("acti");
+  $("#tablink6").removeClass("acti");
+  $("#tab2").show(500);
+  $("#tab1").hide(500);
+  $("#tab3").hide(500);
+  $("#tab4").hide(500);
+  $("#tab5").hide(500);
+  $("#tab6").hide(500);
+  });
+  
+    $("#tablink3").click(function(){
+  $("#tablink3").addClass("acti");
+  $("#tablink1").removeClass("acti");
+  $("#tablink2").removeClass("acti");
+  $("#tablink4").removeClass("acti");
+  $("#tablink5").removeClass("acti");
+  $("#tablink6").removeClass("acti");
+  $("#tab3").show(500);
+  $("#tab1").hide(500);
+  $("#tab2").hide(500);
+  $("#tab4").hide(500);
+  $("#tab5").hide(500);
+  $("#tab6").hide(500);
+  });
+  
+      $("#tablink4").click(function(){
+  $("#tablink4").addClass("acti");
+  $("#tablink1").removeClass("acti");
+  $("#tablink2").removeClass("acti");
+  $("#tablink3").removeClass("acti");
+  $("#tablink5").removeClass("acti");
+  $("#tablink6").removeClass("acti");
+  $("#tab4").show(500);
+  $("#tab1").hide(500);
+  $("#tab2").hide(500);
+  $("#tab3").hide(500);
+  $("#tab5").hide(500);
+  $("#tab6").hide(500);
+  });
+        $("#tablink5").click(function(){
+  $("#tablink5").addClass("acti");
+  $("#tablink1").removeClass("acti");
+  $("#tablink2").removeClass("acti");
+  $("#tablink3").removeClass("acti");
+  $("#tablink4").removeClass("acti");
+  $("#tablink6").removeClass("acti");
+  $("#tab5").show(500);
+  $("#tab1").hide(500);
+  $("#tab2").hide(500);
+  $("#tab3").hide(500);
+  $("#tab4").hide(500);
+  $("#tab6").hide(500);
+  });
+          $("#tablink6").click(function(){
+  $("#tablink6").addClass("acti");
+  $("#tablink1").removeClass("acti");
+  $("#tablink2").removeClass("acti");
+  $("#tablink3").removeClass("acti");
+  $("#tablink4").removeClass("acti");
+  $("#tablink5").removeClass("acti");
+  $("#tab6").show(500);
+  $("#tab1").hide(500);
+  $("#tab2").hide(500);
+  $("#tab3").hide(500);
+  $("#tab4").hide(500);
+  $("#tab5").hide(500);
+  });
+  
+  
+  });
